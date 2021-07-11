@@ -1,4 +1,4 @@
-# ArchLinux Installation Tutorial
+# Arch Linux Installation Tutorial
 <p align="center">
   <img src="https://img.shields.io/github/repo-size/alikzmi/archinstall-tutorial?style=flat-square">
   <img src="https://img.shields.io/badge/LICENSE-CC0-green?style=flat-square">
@@ -7,12 +7,12 @@
 <br><br>
 <a href="https://github.com/alikzmi/archinstall-tutorial/releases/">
 <img src="images/downlode-pdf.png" width="50px">
-Downlode PDF</a> Or Read here
+Downlod PDF</a> Or Read here
 <br>
 
 ## Arch Linux Installation Guide for BIOS
 
-### Downlode The ISO Image
+### Downlod The ISO Image
 You can <a href="https://archlinux.org/download/"> download </a> Arch Linux from its official website.
 
 ### Verify signature
